@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Avian Races only One Faction (Continued)</name>
   <packageId>Mlie.AvianRacesOnlyOneFaction</packageId>
@@ -25,14 +25,16 @@
 Update of Bozus mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1582200954
 
-- Since you now can choose what factions should spawn when starting a new game this version can be used as an update of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1514158118]Avian Races[/url] mod as well.
-
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/AvianRacesOnlyOneFaction][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
     [/tr]
 [/table]
 	
@@ -78,4 +80,3 @@ Update 1.02
 [/list]
 </description>
 </ModMetaData>
-
