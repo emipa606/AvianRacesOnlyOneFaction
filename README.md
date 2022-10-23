@@ -5,8 +5,6 @@
 Update of Bozus mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1582200954
 
-- Since you now can choose what factions should spawn when starting a new game this version can be used as an update of the https://steamcommunity.com/sharedfiles/filedetails/?id=1514158118]Avian Races mod as well.
-
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
@@ -52,6 +50,7 @@ Update 1.02
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
