@@ -54,3 +54,4 @@ Update 1.02
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2596059913]Last updated 2023-01-09
